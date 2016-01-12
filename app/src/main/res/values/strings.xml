@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HttpRequestSample</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Screen labels -->
+    <string name="email">Email Eddress:</string>
+    <string name="location">Location:</string>
+    <string name="occupation">Occupation:</string>
+    <string name="url">Website URL:</string>
+
+</resources>
